@@ -3,24 +3,9 @@ import Home from "./Pages/Home";
 import Characters from "./Pages/Characters";
 import Locations from "./Pages/Locations";
 import Npcs from "./Pages/Npcs";
+import { Routes, Route, HashRouter } from "react-router-dom";
 
 function App() {
-	const route = window.location.href.replace("http://localhost:3000", "");
-	let content;
-	switch (route) {
-		case "/app/characters":
-			content = <Characters />;
-			break;
-		case "/app/locations":
-			content = <Locations />;
-			break;
-		case "/app/npcs":
-			content = <Npcs />;
-			break;
-		default:
-			content = <Home />;
-			break;
-	}
 	return (
 		<div className="App">
 			<header className="App-header">
@@ -38,7 +23,16 @@ function App() {
 					<a href="/">Back to home</a>
 				</div>
 			</header>
-			<div className="App-body">{content}</div>
+			<div className="App-body">
+				<HashRouter>
+					<Routes>
+						<Route path="/" element={<Home />} />
+						<Route path="/characters" element={<Characters />} />
+						<Route path="/locations" element={<Locations />} />
+						<Route path="/npcs" element={<Npcs />} />
+					</Routes>
+				</HashRouter>
+			</div>
 			<footer className="App-footer">Footer</footer>
 		</div>
 	);
