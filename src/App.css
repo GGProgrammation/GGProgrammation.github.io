@@ -2,6 +2,8 @@
 	min-height: 100vh;
 	background-color: #282c34;
 	color: white;
+	padding-left: 1vw;
+	padding-right: 1vw;
 }
 
 .App-header {
@@ -13,6 +15,14 @@
 	height: 3vh;
 }
 
+.Page-header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(8px + 2vmin);
+}
+
 .App-body {
 	display: flex;
 	flex-direction: column;
@@ -22,6 +32,7 @@
 .App-footer {
 	display: flex;
 	flex-direction: column;
+	text-align: right;
 	height: 3vh;
 }
 
