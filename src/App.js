@@ -17,9 +17,9 @@ function App() {
 					}}
 				>
 					<div>Dnd notes</div>
-					<a href="/apps/locations">Locations</a>
-					<a href="/apps/characters">Characters</a>
-					<a href="/apps/npcs">Npcs</a>
+					<a href="/#locations">Locations</a>
+					<a href="/#characters">Characters</a>
+					<a href="/#npcs">Npcs</a>
 					<a href="/">Back to home</a>
 				</div>
 			</header>
