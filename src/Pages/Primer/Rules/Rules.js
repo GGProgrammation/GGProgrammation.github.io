@@ -14,7 +14,7 @@ function Rules() {
 				<a href="/#primer/rules/companions">Companions</a>
 			</div>
 			<ul>
-				<li>Caracters</li>
+				<li>Characters</li>
 				<dd>
 					- All characters must be a level 3{" "}
 					<a href="https://dnd5e.wikidot.com/fighter">fighter</a> with
@@ -45,19 +45,19 @@ function Rules() {
 				</dd>
 				<li>Players</li>
 				<dd>
-					- All players must enter/maintain their caracter sheet on
+					- All players must enter/maintain their character sheet on
 					roll20
 				</dd>
 				<dd>
-					- All players must provide an ilustration of their caracters
+					- All players must provide an ilustration of their character
 					in the form of a token to be used in roll20
 				</dd>
 				<dd>
 					- All players must provide a short description of their
-					caracter (appearance AND personality)
+					character (appearance AND personality)
 				</dd>
 				<dd>
-					- All players must provide the name of their caracter's
+					- All players must provide the name of their character's
 					parents and their status (deceased, absent, present)
 				</dd>
 				<li>Bound weapons</li>

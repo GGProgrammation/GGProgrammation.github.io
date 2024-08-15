@@ -8,6 +8,7 @@ import { Routes, Route, HashRouter } from "react-router-dom";
 import Encyclopedia from "./Pages/Encyclopedia/Encyclopedia";
 import Monsters from "./Pages/Encyclopedia/Monsters/Monsters";
 import Npcs from "./Pages/Encyclopedia/Npcs/Npcs";
+import Events from "./Pages/Encyclopedia/Events/Events";
 
 function App() {
 	return (
@@ -39,6 +40,10 @@ function App() {
 						<Route
 							path="/encyclopedia"
 							element={<Encyclopedia />}
+						/>
+						<Route
+							path="/encyclopedia/events"
+							element={<Events />}
 						/>
 						<Route
 							path="/encyclopedia/locations"
