@@ -97,30 +97,84 @@ function Primer() {
 							<img src={monsutāhantā} style={{ width: "50%" }} />
 							<p>
 								Village of the monster hunters
-								<br /> (1)
-								<br /> (2)
-								<br /> (3)
-								<br /> (4)
-								<br /> (5)
-								<br /> (6)
-								<br /> (7)
-								<br /> (8)
-								<br /> (9)
+								<br /> (1) Monster Carver (Crtafting
+								items/armors)
+								<br /> (2) Monster tamer (Companion training)
+								<br /> (3) Alchemist (Potions)
+								<br /> (4) Village chief (council)
+								<br /> (5) Soul forger
+								<br /> (6) Diviner
+								<br /> (7) Monster Hunter academy
+								<br /> (8) Ceremony hall
+								<br /> (9) General store
 							</p>
 						</div>
 					</>
 				}
 			/>
-			<Region title={"Deddo rando region"} img_src={deddorando} />
-			<Region title={"Doku no numachi region"} img_src={dokunonumachi} />
-			<Region title={"Fukai ragūn region"} img_src={fukairagun} />
-			<Region title={"Nadarakana heigen region"} img_src={nadarakana} />
-			<Region title={"Sabaku no suna region"} img_src={sabakunosuna} />
+			<Region
+				title={"Deddo rando region"}
+				img_src={deddorando}
+				legend={
+					<>
+						<p>TODO</p>
+					</>
+				}
+			/>
+			<Region
+				title={"Doku no numachi region"}
+				img_src={dokunonumachi}
+				legend={
+					<>
+						<p>TODO</p>
+					</>
+				}
+			/>
+			<Region
+				title={"Fukai ragūn region"}
+				img_src={fukairagun}
+				legend={
+					<>
+						<p>TODO</p>
+					</>
+				}
+			/>
+			<Region
+				title={"Nadarakana heigen region"}
+				img_src={nadarakana}
+				legend={
+					<>
+						<p>TODO</p>
+					</>
+				}
+			/>
+			<Region
+				title={"Sabaku no suna region"}
+				img_src={sabakunosuna}
+				legend={
+					<>
+						<p>TODO</p>
+					</>
+				}
+			/>
 			<Region
 				title={"Sora no yamayama region"}
 				img_src={soranoyamayama}
+				legend={
+					<>
+						<p>TODO</p>
+					</>
+				}
 			/>
-			<Region title={"Yōgan Hara region"} img_src={yoganhara} />
+			<Region
+				title={"Yōgan Hara region"}
+				img_src={yoganhara}
+				legend={
+					<>
+						<p>TODO</p>
+					</>
+				}
+			/>
 			<h2>The people known by your characters</h2>
 			<p>TODO</p>
 			<h2>You</h2>
