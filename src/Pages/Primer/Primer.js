@@ -36,7 +36,7 @@ function Primer() {
 			<h2>Story known by your characters</h2>
 			<p>
 				<span>
-					Approximatly 200 years ago, your village Monsutāhantā was
+					Approximatly 180 years ago, your village Monsutāhantā was
 					founded. Trying to fend off horrible monster hordes, the
 					first village elders established fortified walls in the
 					Heiwa no mori region and their descendants have tried to
@@ -71,7 +71,7 @@ function Primer() {
 				<span>
 					This is where you come in, 5th generation of hunters,
 					trained since birth to become the next defenders of
-					Monsutāhantā. At 50 years old, your parents are becoming too
+					Monsutāhantā. At 70 years old, your parents are becoming too
 					old to undertake the hunts neccessary to keep the village
 					safe. You have all participated in your first hunt and
 					undergone the imbuing ceremony. Now full fledged hunters,
@@ -233,7 +233,7 @@ function Primer() {
 			<Npc
 				name={"Shirak Vahir"}
 				description={
-					"One of the oldest still living hunters, he became president of the elder council in his 50's. He is now 70. Imposing presence, his voice is law in Monsutāhantā. He is the one assigning hunts and taking the decisions. This is the one guy you do now want to be on the bad side of."
+					"One of the oldest still living hunters, he became president of the elder council in his 80's. He is now 90. Imposing presence, his voice is law in Monsutāhantā. He is the one assigning hunts and taking the decisions. This is the one guy you do now want to be on the bad side of."
 				}
 				img_src={shirakVahir}
 				profession={"Village chief and president of the elder council"}
