@@ -15,6 +15,7 @@ function Encyclopedia() {
 				<a href="/#encyclopedia/locations">Locations</a>
 				<a href="/#encyclopedia/monsters">Monsters</a>
 				<a href="/#encyclopedia/npcs">Npcs</a>
+				<a href="/#encyclopedia/players">Players</a>
 			</div>
 			<p style={{ textAlign: "center" }}>
 				Here lies all the information the players have accumulateed

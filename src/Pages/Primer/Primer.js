@@ -8,7 +8,16 @@ import nadarakana from "../../Images/Maps/Nadarakana heigen region.jpg";
 import sabakunosuna from "../../Images/Maps/Sabaku no suna region.jpg";
 import soranoyamayama from "../../Images/Maps/Sora no yamayama region.jpg";
 import yoganhara from "../../Images/Maps/Yōgan Hara region.jpg";
-import Region from "./parts/Region";
+import Region from "../parts/Region";
+import ariaMaldova from "../../Images/Npcs/Aria Maldova.png";
+import barkaNirle from "../../Images/Npcs/Barka Nirle.png";
+import jerebriyahXulti from "../../Images/Npcs/Jerebriyah Xulti.png";
+import jeremiyahXulti from "../../Images/Npcs/Jeremiyah Xulti.png";
+import marYan from "../../Images/Npcs/Mar Y'an.png";
+import shirakVahir from "../../Images/Npcs/Shirak Vahir.png";
+import sukAlsahir from "../../Images/Npcs/Suk Alsahir.png";
+import tolaHuye from "../../Images/Npcs/Tola Huye.png";
+import Npc from "../parts/Npc";
 
 function Primer() {
 	return (
@@ -83,6 +92,8 @@ function Primer() {
 						<p>
 							Forest region with temperate climate, some mountains
 							and rivers flowing through the whole region.
+							<br /> Grazing beasts and forests animals are found
+							providing most of the food source for the village.
 							<br /> First and only region populated by the
 							Monster hunters.
 							<br /> (1) Monsutāhantā can be found between the two
@@ -117,7 +128,12 @@ function Primer() {
 				img_src={deddorando}
 				legend={
 					<>
-						<p>TODO</p>
+						<p>
+							Barren region with temperate climate. Rivers and
+							dead forests dot the region. Not much is known of
+							this place since not much happens in this place.
+							<br /> No known fauna
+						</p>
 					</>
 				}
 			/>
@@ -126,7 +142,14 @@ function Primer() {
 				img_src={dokunonumachi}
 				legend={
 					<>
-						<p>TODO</p>
+						<p>
+							Swamp region with hot climate. Knee high muddy
+							waters and overgrown flora.
+							<br />
+							Human sized insects and amphibian are king in these
+							lands. Beware of the poisonous plants found in the
+							region
+						</p>
 					</>
 				}
 			/>
@@ -135,7 +158,12 @@ function Primer() {
 				img_src={fukairagun}
 				legend={
 					<>
-						<p>TODO</p>
+						<p>
+							High water region with hot climate. Colorfoul coral
+							reefs along with deep dark abysses can be found.
+							<br /> Mostly aquatic and avian fauna. Water
+							transportation required.
+						</p>
 					</>
 				}
 			/>
@@ -144,7 +172,13 @@ function Primer() {
 				img_src={nadarakana}
 				legend={
 					<>
-						<p>TODO</p>
+						<p>
+							Mountainous region with temperate climate. Landscape
+							of ravines and hills. Making for a pretty jagged
+							terrain.
+							<br />
+							Fauna composed of diverse flying and climbing types.
+						</p>
 					</>
 				}
 			/>
@@ -153,7 +187,14 @@ function Primer() {
 				img_src={sabakunosuna}
 				legend={
 					<>
-						<p>TODO</p>
+						<p>
+							Desert region with hot climate. Plateaus surrounded
+							by parse areas of flora and sand dunes as far as the
+							eye can see.
+							<br /> Fauna composed mostly of tunnelers and
+							adapted life forms that can endure the hot sun of
+							the region.
+						</p>
 					</>
 				}
 			/>
@@ -162,7 +203,14 @@ function Primer() {
 				img_src={soranoyamayama}
 				legend={
 					<>
-						<p>TODO</p>
+						<p>
+							Mountainous region with cold climate. The peeks of
+							the moutains touch the sky and the cold freezes even
+							the most prepared of adventurers.
+							<br /> Fauna composed mostly of life forms adapted
+							to the cold, wether it be flying, climbing or
+							burrowing types.
+						</p>
 					</>
 				}
 			/>
@@ -171,14 +219,103 @@ function Primer() {
 				img_src={yoganhara}
 				legend={
 					<>
-						<p>TODO</p>
+						<p>
+							Volcanic region with hot climate. The tree volcanoes
+							that adorne the region are constantly spewing their
+							lava making the land quite inhospitable.
+							<br /> Fauna base on flying creatures and fire
+							resistant beasts.
+						</p>
 					</>
 				}
 			/>
 			<h2>The people known by your characters</h2>
-			<p>TODO</p>
+			<Npc
+				name={"Shirak Vahir"}
+				description={
+					"One of the oldest still living hunters, he became president of the elder council in his 50's. He is now 70. Imposing presence, his voice is law in Monsutāhantā. He is the one assigning hunts and taking the decisions. This is the one guy you do now want to be on the bad side of."
+				}
+				img_src={shirakVahir}
+				profession={"Village chief and president of the elder council"}
+			/>
+			<Npc
+				name={"Jeremiyah Xulti"}
+				description={
+					"The monster carver of Monsutāhantā. A busy man and a man of few words. He is always in the middle of a project and is constently trying to outdo his last work. He might not strike a lot of mundane conversation but he is the man to talk to for any project having to do with monsters. He makes sure not one piece of a monster's body goes to waste."
+				}
+				img_src={jeremiyahXulti}
+				profession={"Monster Carver"}
+			/>
+			<Npc
+				name={"Jerebriyah Xulti"}
+				description={
+					"The monster tamer of Monsutāhantā, he is in charge of every monster egg and or baby found during the expeditions. He trains them and is the judge of wether or not they can become good companions for hunters. He is also the one who assigns them to freshly minted hunters. He is a being of eternal patience and everyone appreciates his company."
+				}
+				img_src={jerebriyahXulti}
+				profession={"Monster tamer"}
+			/>
+			<Npc
+				name={"Suk Alsahir"}
+				description={
+					"The alchemist of Monsutāhantā. She makes sure every expedition goes smoothly and hunters come back with her salves, potions and poisons. If hunters need a little boost, she is usually to one who provides it. In return, she often asks the hunters for additionnal ingredients to bring back from the region they are going to. Quid pro quo as she often says. She is a practical and no nonsense gal with no time to waste."
+				}
+				img_src={sukAlsahir}
+				profession={"Alchemist"}
+			/>
+			<Npc
+				name={"Mar Y'an"}
+				description={
+					"The soul binder of Monsutāhantā. Along with Jeremiyah, she makes sure every part of a monster is used, even it's soul. With her magic, she binds the form and essence of a monster to the crafts of Jeremiyah to create powerfull weapons, armors and artifacts to help hunters in their journeys. Unlike her coworker however, she loves conversation and you can usually find her at the tavern when not working."
+				}
+				img_src={marYan}
+				profession={"Soul binder"}
+			/>
+			<Npc
+				name={"Aria Maldova"}
+				description={
+					"Diviner of Monsutāhantā, she can sense when an attack is comming and, like her mother before her, advises the hunters on where to look for the beasts before they even begin their assault on the village." +
+					"Tends to be lost in thought and always distracted by something the rest of us cannot see. Otherwise jovial albeit a little uncomfortable to be with."
+				}
+				img_src={ariaMaldova}
+				profession={"Diviner"}
+			/>
+			<Npc
+				name={"Barka Nirle"}
+				description={
+					"The instructor of Monsutāhantā is a freshly retired hunter. He has experience but also the vitality to train the next generation of hunters. Quite stern but enjoys drinking and playing music whenever he can. He thinks children understand better when his instructions are in song form."
+				}
+				img_src={barkaNirle}
+				profession={"Instructor"}
+			/>
+			<Npc
+				name={"Tola Huye"}
+				description={
+					"The gerenal store owner of Monsutāhantā. If you need something pre-made, rations or non-alchemical magic items, he is the one to procure it for you. With his magic, he enchants and transforms mundane objects into usefull tools for the hunt. Every mission starts with a trip in his store. Always looking for the next opportunity to apply is talents, he has a warm and welcoming attitude towards everybody."
+				}
+				img_src={tolaHuye}
+				profession={"Store owner"}
+			/>
+			<p>
+				Along with them, you can know as many or as few people not in
+				this list from the village. You get to name them tho. They can
+				do menial jobs, they can be other hunters in other teams, etc.
+				You also, of course, know your parents. These you will have to
+				name and give to me.
+			</p>
 			<h2>You</h2>
-			<p>TODO</p>
+			<p>
+				5th generation of Monster Hunters, you and your 3 other
+				companions have been raised and trained as a team to fight off
+				encroaching monsters. You have been given a soul-bound weapon, a
+				companion and have undergone the attunement ceremony making of
+				you all full fledged monster hunters. Your parents are now close
+				to retirement and are ready to leave the defense of the village
+				to you. Approximatly 2 to 3 months ago, monster have begun to
+				appear and seem to be emboldened enough to come and attack your
+				village. If damage is to be avoided on the infrastructure of the
+				village, your only course of action is to hunt them in their
+				respective territory before they even come close.
+			</p>
 			<h2>
 				Great. What now? Head on over to the{" "}
 				<a href="/#primer/rules">rules</a> page to learn how to create

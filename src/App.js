@@ -9,6 +9,7 @@ import Encyclopedia from "./Pages/Encyclopedia/Encyclopedia";
 import Monsters from "./Pages/Encyclopedia/Monsters/Monsters";
 import Npcs from "./Pages/Encyclopedia/Npcs/Npcs";
 import Events from "./Pages/Encyclopedia/Events/Events";
+import Players from "./Pages/Encyclopedia/Players/Players";
 
 function App() {
 	return (
@@ -54,6 +55,10 @@ function App() {
 							element={<Monsters />}
 						/>
 						<Route path="/encyclopedia/npcs" element={<Npcs />} />
+						<Route
+							path="/encyclopedia/players"
+							element={<Players />}
+						/>
 					</Routes>
 				</HashRouter>
 			</div>
