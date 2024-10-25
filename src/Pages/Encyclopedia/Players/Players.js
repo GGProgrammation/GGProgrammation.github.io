@@ -62,7 +62,7 @@ function Players() {
 					companion_src={peeper}
 					companionName={"Spotter"}
 					companionRace={"The peeper"}
-					playedBy={"Sebastien Gergel"}
+					playedBy={"Seb GL"}
 				/>
 			</div>
 		</div>
