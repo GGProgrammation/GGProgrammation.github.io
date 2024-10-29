@@ -12,6 +12,7 @@ function Encyclopedia() {
 			>
 				<h3>Encyclopedia</h3>
 				<a href="/#encyclopedia/events">Events</a>
+				<a href="/#encyclopedia/sessions">Sessions</a>
 				<a href="/#encyclopedia/locations">Locations</a>
 				<a href="/#encyclopedia/monsters">Monsters</a>
 				<a href="/#encyclopedia/npcs">Npcs</a>

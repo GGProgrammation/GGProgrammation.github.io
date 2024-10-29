@@ -77,16 +77,21 @@ function Events() {
 							tool for the years to come.
 							<ul>
 								<li>
-									Amara receives XXXXXX, the explosive hammer.
+									Amara receives Ultra Inferno Crusher, the
+									explosive hammer.
 								</li>
 								<li>
-									Aku receives XXXXXX, the corrosive trident.
+									Aku receives Sabimori, the corrosive
+									harpoon.
 								</li>
 								<li>
-									Chakrum receives XXXXXX, the protectors
-									fist.
+									Chakrum receives The Gorger, the protectors
+									fists.
 								</li>
-								<li>Kadesh receives XXXXXX, the bio-cannon.</li>
+								<li>
+									Kadesh receives Viridian Husk, the
+									bio-cannon.
+								</li>
 							</ul>
 							<br /> Next is the Companion attunement. Jerebriyah
 							evaluates every trainee and assigns them a fitting

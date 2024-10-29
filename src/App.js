@@ -9,6 +9,7 @@ import Encyclopedia from "./Pages/Encyclopedia/Encyclopedia";
 import Monsters from "./Pages/Encyclopedia/Monsters/Monsters";
 import Npcs from "./Pages/Encyclopedia/Npcs/Npcs";
 import Events from "./Pages/Encyclopedia/Events/Events";
+import Sessions from "./Pages/Encyclopedia/Sessions/Sessions";
 import Players from "./Pages/Encyclopedia/Players/Players";
 
 function App() {
@@ -45,6 +46,10 @@ function App() {
 						<Route
 							path="/encyclopedia/events"
 							element={<Events />}
+						/>
+						<Route
+							path="/encyclopedia/sessions"
+							element={<Sessions />}
 						/>
 						<Route
 							path="/encyclopedia/locations"
