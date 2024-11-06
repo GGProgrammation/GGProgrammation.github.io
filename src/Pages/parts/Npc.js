@@ -21,7 +21,10 @@ function Npc({
 				<h5>{profession}</h5>
 				{playedBy !== undefined && <h5>Played by {playedBy}</h5>}
 				<div style={{ display: "flex" }}>
-					<img src={img_src} style={{ width: "400px" }} />
+					<img
+						src={img_src}
+						style={{ width: "400px", height: "400px" }}
+					/>
 					{description}
 				</div>
 			</div>
