@@ -1,6 +1,6 @@
 import session1 from "../../../Images/Travel/Session1.png";
 import session2 from "../../../Images/Travel/Session2.png";
-
+import session3 from "../../../Images/Travel/Session3.png";
 function Sessions() {
 	return (
 		<div
@@ -170,6 +170,58 @@ function Sessions() {
 					<div style={{ display: "flex" }}>
 						<img
 							src={session2}
+							style={{ marginLeft: "auto", marginRight: "auto" }}
+						/>
+					</div>
+				</div>
+				<div style={{ border: "5px black solid" }}>
+					<h4>Session 3</h4>
+					<div
+						style={{
+							display: "flex",
+							justifyContent: "space-between",
+						}}
+					>
+						<h5>Year 180am, 18-06 to 20-06</h5>
+						<p>2024-11-06</p>
+					</div>
+					<p>
+						The shining diamonds continued their search. With
+						observation and deduction, they found out that somehow,
+						the hulking mass they saw in the swamp for a few days
+						now was only a smoke illusion comming from the earth.
+						They decided to avoid it and keep following the trails
+						for of vines.
+					</p>
+					<p>
+						One night, during camp, they got attacked by giant frogs
+						who didn't like their fires but dispatched them quickly,
+						gaining a lot of food in the process with Chakrum
+						cheffing it up during his guard duty.
+					</p>
+					<p>
+						They continued to follow the trail and found a river
+						with petals flowing down the opposite direction. It
+						ended up being the flowers looked for by the alchemist.
+						After some good nature and perception checks, they
+						grabbed the flowers without problems and continued on
+						their way.
+					</p>
+					<p>
+						On the fifth day of their adventure in the swamps, they
+						finally found what they were looking for. The end of the
+						trail, a tunnel carved in a spire forming the mountain
+						line separating the Doku no numachi region and the Yōgan
+						Hara region. The tunnel seemed to go deep underground. A
+						choice now stands before them. Enter the tunnel to face
+						the creature, fighting in it's own turf but having a
+						chance to take it by surprise or wait for it outside,
+						trying to lay a trap but making sure it would be awake
+						and ready for a fight.
+					</p>
+					<div style={{ display: "flex" }}>
+						<img
+							src={session3}
 							style={{ marginLeft: "auto", marginRight: "auto" }}
 						/>
 					</div>
