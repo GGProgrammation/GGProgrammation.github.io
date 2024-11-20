@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.999f37d4.css",
-    "main.js": "/static/js/main.4030bfbd.js",
+    "main.js": "/static/js/main.d7fbc9af.js",
     "static/js/453.7d0dad08.chunk.js": "/static/js/453.7d0dad08.chunk.js",
     "static/media/World map.jpg": "/static/media/World map.7bb61179f6d43edd4232.jpg",
     "static/media/Monsutāhantā.jpg": "/static/media/Monsutāhantā.63cda94760b6701db599.jpg",
@@ -58,17 +58,18 @@
     "static/media/Gelatinooze.png": "/static/media/Gelatinooze.f1225bf2aebd134c31d1.png",
     "static/media/Caprisoul.png": "/static/media/Caprisoul.f9b31dca087bf599088a.png",
     "static/media/tarling_sheet.png": "/static/media/tarling_sheet.123dea49bfe003caca1f.png",
+    "static/media/Session3.png": "/static/media/Session3.38bb1f65d6c8c27f0f13.png",
     "static/media/gelatinooze_sheet.png": "/static/media/gelatinooze_sheet.57a80267756250ba69b0.png",
     "static/media/Deddo rando region.jpg": "/static/media/Deddo rando region.0490f528e80facd428d9.jpg",
     "static/media/Death shroud.png": "/static/media/Death shroud.7bcf2bd3dafc1a96ad2d.png",
     "static/media/Doku no numachi region.jpg": "/static/media/Doku no numachi region.e39a234c568f847adb83.jpg",
     "index.html": "/index.html",
     "main.999f37d4.css.map": "/static/css/main.999f37d4.css.map",
-    "main.4030bfbd.js.map": "/static/js/main.4030bfbd.js.map",
+    "main.d7fbc9af.js.map": "/static/js/main.d7fbc9af.js.map",
     "453.7d0dad08.chunk.js.map": "/static/js/453.7d0dad08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999f37d4.css",
-    "static/js/main.4030bfbd.js"
+    "static/js/main.d7fbc9af.js"
   ]
 }
