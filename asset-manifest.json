@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.999f37d4.css",
-    "main.js": "/static/js/main.d7fbc9af.js",
+    "main.js": "/static/js/main.35d5b37c.js",
     "static/js/453.7d0dad08.chunk.js": "/static/js/453.7d0dad08.chunk.js",
     "static/media/World map.jpg": "/static/media/World map.7bb61179f6d43edd4232.jpg",
     "static/media/Monsutāhantā.jpg": "/static/media/Monsutāhantā.63cda94760b6701db599.jpg",
@@ -14,6 +14,7 @@
     "static/media/Suk Alsahir.png": "/static/media/Suk Alsahir.96dcb3eaa939ac19bf3a.png",
     "static/media/Aria Maldova.png": "/static/media/Aria Maldova.1fd372962b854c23fcc2.png",
     "static/media/Shirak Vahir.png": "/static/media/Shirak Vahir.d860a76970f8b25afe54.png",
+    "static/media/PoisonousMillitankSheet.png": "/static/media/PoisonousMillitankSheet.a49c4967fb518c2570dd.png",
     "static/media/Sabaku no suna region.jpg": "/static/media/Sabaku no suna region.9b12267f4967cb10f243.jpg",
     "static/media/Hyphan.png": "/static/media/Hyphan.51424b0961bfedfa917c.png",
     "static/media/Sora no yamayama region.jpg": "/static/media/Sora no yamayama region.b28e5ca663a7fc0e6e71.jpg",
@@ -29,6 +30,7 @@
     "static/media/Chakrum.png": "/static/media/Chakrum.00d69d32cf5f120002e5.png",
     "static/media/Brainmuncher.png": "/static/media/Brainmuncher.23be39a7f4ef75b74e67.png",
     "static/media/Nadarakana heigen region.jpg": "/static/media/Nadarakana heigen region.b2201daacad65713abda.jpg",
+    "static/media/PoisonousMillitank.jpg": "/static/media/PoisonousMillitank.81725e5c39f300a7aa48.jpg",
     "static/media/Mechakobold.png": "/static/media/Mechakobold.eb9fdc00d11e7784bf4a.png",
     "static/media/direbunny_sheet.png": "/static/media/direbunny_sheet.3ba4862b87c16e780789.png",
     "static/media/slaghundpup_sheet.png": "/static/media/slaghundpup_sheet.344342b28c8556f4375f.png",
@@ -65,11 +67,11 @@
     "static/media/Doku no numachi region.jpg": "/static/media/Doku no numachi region.e39a234c568f847adb83.jpg",
     "index.html": "/index.html",
     "main.999f37d4.css.map": "/static/css/main.999f37d4.css.map",
-    "main.d7fbc9af.js.map": "/static/js/main.d7fbc9af.js.map",
+    "main.35d5b37c.js.map": "/static/js/main.35d5b37c.js.map",
     "453.7d0dad08.chunk.js.map": "/static/js/453.7d0dad08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999f37d4.css",
-    "static/js/main.d7fbc9af.js"
+    "static/js/main.35d5b37c.js"
   ]
 }
