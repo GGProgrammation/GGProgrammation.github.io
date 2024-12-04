@@ -1,6 +1,7 @@
 import session1 from "../../../Images/Travel/Session1.png";
 import session2 from "../../../Images/Travel/Session2.png";
 import session3 from "../../../Images/Travel/Session3.png";
+import session5 from "../../../Images/Travel/Session5.png";
 function Sessions() {
 	return (
 		<div
@@ -261,6 +262,87 @@ function Sessions() {
 					<div style={{ display: "flex" }}>
 						<img
 							src={session3}
+							style={{ marginLeft: "auto", marginRight: "auto" }}
+						/>
+					</div>
+				</div>
+				<div style={{ border: "5px black solid" }}>
+					<h4>Session 4</h4>
+					<div
+						style={{
+							display: "flex",
+							justifyContent: "space-between",
+						}}
+					>
+						<h5>Year 180am, 20-06 to 20-06</h5>
+						<p>2024-11-20</p>
+					</div>
+					<p>
+						The shining diamonds found the lair of the beast. They
+						tried luring it out but unfortunatly, they also lured
+						out protectors of the lair. They had to fight them
+						before the creature they came here for showed up.
+						Spending few ressources doing so, they sent running the
+						protectors, giant ants with human sized claws and
+						protective carapaces before the final showdown. The
+						beast emerged from underground, a millipede/beatle
+						hybrid with giant arms and poisonous tendrils on it's
+						back. The fight went well for the team although some of
+						their companion ended up downed (or crushed. Looking at
+						you hoozbert), they came out on top and even managed to
+						capture the giant beasts on their first try with nobody
+						dying.
+					</p>
+					<p>
+						Aku kept everyone alive, Chakrum occupied the beast most
+						of the fight while Kadesh and Amara tried to bring it
+						down as fast as possible. A well oiled machine.
+					</p>
+				</div>
+				<div style={{ border: "5px black solid" }}>
+					<h4>Session 5</h4>
+					<div
+						style={{
+							display: "flex",
+							justifyContent: "space-between",
+						}}
+					>
+						<h5>Year 180am, 20-06 to 20-22</h5>
+						<p>2024-11-27</p>
+					</div>
+					<p>
+						The shining diamonds embarked on the way home, beast in
+						tow, with the joy of knowing they accomplished
+						everything they set out to do. The way home went
+						smoothly although, some of them saw some weird
+						phenomenons on their way to the village. Not much to be
+						done about it but still they kept it in mind to ask back
+						at the village.
+					</p>
+					<p>
+						When they arrived, a big feast was organised for them.
+						They were the first team back from their mission. Fun
+						and alcool was had by all that day. Weapons, armors and
+						companions got upgraded. The other teams arrived later
+						that week. They asked about the weird phenomeons they
+						saw during their way back, stars glitching out, the sky
+						turning day during the night but got no answers from the
+						rest of the village. In fact, they seemed to avoid the
+						subjet. With some good insight from members of the team
+						and a dodgy conversation between the council president
+						and the general store manager spied on by Kadesh, they
+						gathered that something wasn't right. They were being
+						lied to. About what? Who knows. At the end of the week,
+						only one team did not come back : the flower eaters.
+					</p>
+					<p>
+						After a week of rest, it is now time for the shining
+						diamonds to go back out there but this time, on a rescue
+						mission. Saving the flower eaters.
+					</p>
+					<div style={{ display: "flex" }}>
+						<img
+							src={session5}
 							style={{ marginLeft: "auto", marginRight: "auto" }}
 						/>
 					</div>
