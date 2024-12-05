@@ -259,45 +259,6 @@ function Sessions() {
 						of the fight while Kadesh and Amara tried to bring it
 						down as fast as possible. A well oiled machine.
 					</p>
-					<div style={{ display: "flex" }}>
-						<img
-							src={session3}
-							style={{ marginLeft: "auto", marginRight: "auto" }}
-						/>
-					</div>
-				</div>
-				<div style={{ border: "5px black solid" }}>
-					<h4>Session 4</h4>
-					<div
-						style={{
-							display: "flex",
-							justifyContent: "space-between",
-						}}
-					>
-						<h5>Year 180am, 20-06 to 20-06</h5>
-						<p>2024-11-20</p>
-					</div>
-					<p>
-						The shining diamonds found the lair of the beast. They
-						tried luring it out but unfortunatly, they also lured
-						out protectors of the lair. They had to fight them
-						before the creature they came here for showed up.
-						Spending few ressources doing so, they sent running the
-						protectors, giant ants with human sized claws and
-						protective carapaces before the final showdown. The
-						beast emerged from underground, a millipede/beatle
-						hybrid with giant arms and poisonous tendrils on it's
-						back. The fight went well for the team although some of
-						their companion ended up downed (or crushed. Looking at
-						you hoozbert), they came out on top and even managed to
-						capture the giant beasts on their first try with nobody
-						dying.
-					</p>
-					<p>
-						Aku kept everyone alive, Chakrum occupied the beast most
-						of the fight while Kadesh and Amara tried to bring it
-						down as fast as possible. A well oiled machine.
-					</p>
 				</div>
 				<div style={{ border: "5px black solid" }}>
 					<h4>Session 5</h4>
