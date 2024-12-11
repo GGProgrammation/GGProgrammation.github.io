@@ -6,6 +6,11 @@ import marYan from "../../../Images/Npcs/Mar Y'an.png";
 import shirakVahir from "../../../Images/Npcs/Shirak Vahir.png";
 import sukAlsahir from "../../../Images/Npcs/Suk Alsahir.png";
 import tolaHuye from "../../../Images/Npcs/Tola Huye.png";
+import borgorTulak from "../../../Images/Npcs/Borgor Tulak.png";
+import kariaBaro from "../../../Images/Npcs/Karia Baro.png";
+import luciaAremori from "../../../Images/Npcs/Lucia Aremori.png";
+import valakVadrin from "../../../Images/Npcs/Valak Vadrin.png";
+
 import Npc from "../../parts/Npc";
 
 function Npcs() {
@@ -91,6 +96,38 @@ function Npcs() {
 					}
 					img_src={tolaHuye}
 					profession={"Store owner"}
+				/>
+				<Npc
+					name={"Karia Baro"}
+					description={
+						"The javelineer. Part of the flower eaters team. Uses a javelin called Valiero as a weapon."
+					}
+					img_src={kariaBaro}
+					profession={"Hunter"}
+				/>
+				<Npc
+					name={"Lucia Aremori"}
+					description={
+						"The healing archer. Part of the flower eaters team. Uses a bow called Leaf as a weapon."
+					}
+					img_src={luciaAremori}
+					profession={"Hunter"}
+				/>
+				<Npc
+					name={"Borgor Tulak"}
+					description={
+						"The thundering hammer. Part of the flower eaters team. Uses a 2 handed hammer called Storm as a weapon."
+					}
+					img_src={borgorTulak}
+					profession={"Hunter"}
+				/>
+				<Npc
+					name={"Valak Vadrin"}
+					description={
+						"The lancer. Part of the flower eaters team. Uses a lande and shield combo called Home (Shield) and Security (Spear) as a Weapon."
+					}
+					img_src={valakVadrin}
+					profession={"Hunter"}
 				/>
 			</div>
 		</div>

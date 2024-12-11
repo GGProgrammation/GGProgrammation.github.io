@@ -2,6 +2,7 @@ import session1 from "../../../Images/Travel/Session1.png";
 import session2 from "../../../Images/Travel/Session2.png";
 import session3 from "../../../Images/Travel/Session3.png";
 import session5 from "../../../Images/Travel/Session5.png";
+import session6 from "../../../Images/Travel/Session6.png";
 function Sessions() {
 	return (
 		<div
@@ -268,7 +269,7 @@ function Sessions() {
 							justifyContent: "space-between",
 						}}
 					>
-						<h5>Year 180am, 20-06 to 20-22</h5>
+						<h5>Year 180am, 20-06 to 1-07</h5>
 						<p>2024-11-27</p>
 					</div>
 					<p>
@@ -304,6 +305,125 @@ function Sessions() {
 					<div style={{ display: "flex" }}>
 						<img
 							src={session5}
+							style={{ marginLeft: "auto", marginRight: "auto" }}
+						/>
+					</div>
+				</div>
+				<div style={{ border: "5px black solid" }}>
+					<h4>Session 6</h4>
+					<div
+						style={{
+							display: "flex",
+							justifyContent: "space-between",
+						}}
+					>
+						<h5>Year 180am, 1-07 to 11-07</h5>
+						<p>2024-12-04</p>
+					</div>
+					<p>
+						The shining diamonds get ready to rescue the flowers
+						eaters. The team they are going to save is composed of :
+					</p>
+					<ul>
+						<li>Lucia, the healing archer with her bow, Leaf</li>
+						<li>
+							Borgor, the thundering hammer with his hammer, Storm
+						</li>
+						<li>
+							Valak, the lancer and his lance and shield combo,
+							Home and Security
+						</li>
+						<li>Karia, the javelineer and her javelin, Valiero</li>
+					</ul>
+					<p>
+						The beast is located in the Nadarakana heigen region.
+						The council have given them the prophecy that was given
+						to the first team : The essence of the unnamed beast can
+						be felt more strongly in the north-eastern part of the
+						region. The silken waves of destiny float high when the
+						sky burns in the mountain. The song of death falls upon
+						you so shield your hearts, brave beings, as the heat of
+						passion will consume you otherwise.
+					</p>
+					<p>
+						The alchemist provides them with potions to help them
+						climb as this mission seems to bring them in the
+						mountains. She also gives them potions to speed up their
+						travel, thanks to the plants they brought back on their
+						last mission. With the poisonous tendrils of the last
+						beast they slayed, she made poisons that they can also
+						use.
+					</p>
+					<p>
+						The general store owner gives them rations enough for 31
+						days of travel. It should cover for their companions if
+						they find them alive.
+					</p>
+					<p>
+						Before leaving, Aku has a weird dream where he feels
+						acid poured down his veins and his arms melt away. Has
+						he wakes up, he sees the door to his chambers close and
+						hears footsteps in the hallway. When he goes to look, he
+						can see no one. Spooked, he goes back to sleep but as he
+						does, he notices blood on his hand and a tingle in his
+						neck. He touches it to feel a small incision on his
+						neck, as if a small puncture wound had been done to him.
+						In the morning, he notices that the same little wound
+						can be found on all his team mates.
+					</p>
+					<p>
+						They try to go talk to Shirak Vahir, the council elder
+						but has they arrive at his home, he cannot be found.
+						They then leave for the mountains.
+					</p>
+					<p>
+						The travel is uneventfull, they use the potions given to
+						them by the alchemist to speed up during the first 2
+						days and then follow to path to Nadarakana heigen. After
+						a week of walking, they end up finding tracks of their
+						quarry, as well as camps left behind. They follow as
+						best they can on a path that goes up a mountain.
+					</p>
+					<p>
+						As they go up the mountain, they have an encounter with
+						Cyclops trying to stop them from advancing, they have a
+						small curfufle but end up beating them quite easily.
+						After the fight, the eyes of Kadesh and his trusty
+						companion Spotter notice an unusual shine at the feet of
+						the mountain. They find the hammer of Borgor, encrusted
+						into the earth, as if it fell a great distance. On it,
+						they find a semi-transparent web-like substance with a
+						strange smell. They decided to camp there for the night
+						before starting to climb up the perrilous wall of the
+						mountain.
+					</p>
+					<p>
+						During the night, while they were on guard duty, every
+						one of them heard a deep, sad and melodius song. The
+						song captured their attention to the point that nothing
+						else could be heard. No wind, no insect, not even their
+						own breath. It lasted all night. It seemed to come from
+						up the mountain. Didn't seem to have any ill effects.
+						For now.
+					</p>
+					<p>
+						In the morning, the shining diamonds started the process
+						of going up. With care for some, and ease for others,
+						they got to a small ledge where they could discuss
+						strategy. All of them except one opted to put their
+						earwax in, given to them by the general store owner. To
+						protect them from the song.
+					</p>
+					<p>
+						After the ledge, the side of the mountain seemed covered
+						in the translucent web-like substrance discovered on the
+						hammer. They were getting close. They let Hoozbert go
+						ahead first to clear it with his acidic trail, trying to
+						not let the creature know of their approach.
+					</p>
+					<div style={{ display: "flex" }}>
+						<img
+							src={session6}
 							style={{ marginLeft: "auto", marginRight: "auto" }}
 						/>
 					</div>
