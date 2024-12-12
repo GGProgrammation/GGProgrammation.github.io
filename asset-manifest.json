@@ -1,21 +1,26 @@
 {
   "files": {
     "main.css": "/static/css/main.999f37d4.css",
-    "main.js": "/static/js/main.a61ada74.js",
+    "main.js": "/static/js/main.b82b32c2.js",
     "static/js/453.7d0dad08.chunk.js": "/static/js/453.7d0dad08.chunk.js",
     "static/media/World map.jpg": "/static/media/World map.7bb61179f6d43edd4232.jpg",
     "static/media/Monsutāhantā.jpg": "/static/media/Monsutāhantā.63cda94760b6701db599.jpg",
     "static/media/Tola Huye.png": "/static/media/Tola Huye.219247ab5d1d1a9c21ed.png",
     "static/media/Amara.png": "/static/media/Amara.c95ffe417d29bc8e4a7c.png",
+    "static/media/Valak Vadrin.png": "/static/media/Valak Vadrin.5cad9b02d0a2f818a637.png",
     "static/media/Barka Nirle.png": "/static/media/Barka Nirle.9ddaba8a29186d3d37db.png",
     "static/media/Mar Y'an.png": "/static/media/Mar Y'an.c45ee93d6c928e4b3654.png",
+    "static/media/Karia Baro.png": "/static/media/Karia Baro.b887b058ba055804ae75.png",
+    "static/media/Lucia Aremori.png": "/static/media/Lucia Aremori.b5a8deda07be4a6f590f.png",
     "static/media/Jerebriyah Xulti.png": "/static/media/Jerebriyah Xulti.e72cb2be38056c6d3152.png",
+    "static/media/Borgor Tulak.png": "/static/media/Borgor Tulak.cfd4b17d696acf64427a.png",
     "static/media/Jeremiyah Xulti.png": "/static/media/Jeremiyah Xulti.c6ea53e265a5a86d776a.png",
     "static/media/Suk Alsahir.png": "/static/media/Suk Alsahir.96dcb3eaa939ac19bf3a.png",
     "static/media/Aria Maldova.png": "/static/media/Aria Maldova.1fd372962b854c23fcc2.png",
     "static/media/Shirak Vahir.png": "/static/media/Shirak Vahir.d860a76970f8b25afe54.png",
     "static/media/PoisonousMillitankSheet.png": "/static/media/PoisonousMillitankSheet.a49c4967fb518c2570dd.png",
     "static/media/Session5.png": "/static/media/Session5.5cfcaeb0e8bb808e042a.png",
+    "static/media/Session6.png": "/static/media/Session6.de44fdb736e567d13c0a.png",
     "static/media/Sabaku no suna region.jpg": "/static/media/Sabaku no suna region.9b12267f4967cb10f243.jpg",
     "static/media/Hyphan.png": "/static/media/Hyphan.51424b0961bfedfa917c.png",
     "static/media/Sora no yamayama region.jpg": "/static/media/Sora no yamayama region.b28e5ca663a7fc0e6e71.jpg",
@@ -68,11 +73,11 @@
     "static/media/Doku no numachi region.jpg": "/static/media/Doku no numachi region.e39a234c568f847adb83.jpg",
     "index.html": "/index.html",
     "main.999f37d4.css.map": "/static/css/main.999f37d4.css.map",
-    "main.a61ada74.js.map": "/static/js/main.a61ada74.js.map",
+    "main.b82b32c2.js.map": "/static/js/main.b82b32c2.js.map",
     "453.7d0dad08.chunk.js.map": "/static/js/453.7d0dad08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999f37d4.css",
-    "static/js/main.a61ada74.js"
+    "static/js/main.b82b32c2.js"
   ]
 }
