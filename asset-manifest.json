@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.999f37d4.css",
-    "main.js": "/static/js/main.b82b32c2.js",
+    "main.js": "/static/js/main.8ec6a3ae.js",
     "static/js/453.7d0dad08.chunk.js": "/static/js/453.7d0dad08.chunk.js",
     "static/media/World map.jpg": "/static/media/World map.7bb61179f6d43edd4232.jpg",
     "static/media/Monsutāhantā.jpg": "/static/media/Monsutāhantā.63cda94760b6701db599.jpg",
@@ -73,11 +73,11 @@
     "static/media/Doku no numachi region.jpg": "/static/media/Doku no numachi region.e39a234c568f847adb83.jpg",
     "index.html": "/index.html",
     "main.999f37d4.css.map": "/static/css/main.999f37d4.css.map",
-    "main.b82b32c2.js.map": "/static/js/main.b82b32c2.js.map",
+    "main.8ec6a3ae.js.map": "/static/js/main.8ec6a3ae.js.map",
     "453.7d0dad08.chunk.js.map": "/static/js/453.7d0dad08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999f37d4.css",
-    "static/js/main.b82b32c2.js"
+    "static/js/main.8ec6a3ae.js"
   ]
 }
