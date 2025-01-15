@@ -3,6 +3,8 @@ import session2 from "../../../Images/Travel/Session2.png";
 import session3 from "../../../Images/Travel/Session3.png";
 import session5 from "../../../Images/Travel/Session5.png";
 import session6 from "../../../Images/Travel/Session6.png";
+import session8 from "../../../Images/Travel/Session8.png";
+
 function Sessions() {
 	return (
 		<div
@@ -424,6 +426,81 @@ function Sessions() {
 					<div style={{ display: "flex" }}>
 						<img
 							src={session6}
+							style={{ marginLeft: "auto", marginRight: "auto" }}
+						/>
+					</div>
+				</div>
+				<div style={{ border: "5px black solid" }}>
+					<h4>Session 7</h4>
+					<div
+						style={{
+							display: "flex",
+							justifyContent: "space-between",
+						}}
+					>
+						<h5>Year 180am, 11-07</h5>
+						<p>2025-01-08</p>
+					</div>
+					<p>
+						The shining diamonds found the lair of their next pray.
+						Entering the cave covered in webbings, they stumbled in
+						the dark a little before King light up their way. They
+						dodged all the creatures trap before finally comming
+						face to face with the best. A dragon arachnid hybdrid,
+						spitting webs and setting them on fire to try and cook
+						the party to a crisp. After a hard fought battle where
+						everyone ended up injured, they captured the beast. Now,
+						to see if they managed to save who they came for. They
+						sadly saw at least one corpse being eaten. Hopefully not
+						one of their tribe.
+					</p>
+				</div>
+				<div style={{ border: "5px black solid" }}>
+					<h4>Session 8</h4>
+					<div
+						style={{
+							display: "flex",
+							justifyContent: "space-between",
+						}}
+					>
+						<h5>Year 180am, 11-07 to 14-07</h5>
+						<p>2025-01-15</p>
+					</div>
+					<p>
+						The shining Diamonds succeeded in rescuing almost all of
+						the Flower eaters party. They start the journey home
+						transporting both the Aradraka sleeping and the
+						remaining party members Valak Vadrin, Lucia Aremori and
+						Karia Baro. They also bring with them the weapon of all
+						the group members. For now, the Flower eaters are
+						paralyzed and cannot moved, still under the effect of
+						the Aradraka's toxin.
+					</p>
+					<p>
+						For the first few days of travel back towards the
+						village, everything is ok for the Shining Diamonds.
+						Nothing out of the ordinary. On the third day however,
+						Kadesh starts having weird visions again of glitching
+						stars and at night, all members of the party have
+						strange dreams. They all seem connected somehow by the
+						mysterious letters "J.S" and other similarities like the
+						clothes they wear and the likes. They tried talking
+						about it to the Flower eaters but at last, they all
+						seemed just as weird talking about these dreams then the
+						people in the village. They let it go for now and
+						continue on their journey.
+					</p>
+					<p>
+						In the gorge between the Nadarakana heigen region and
+						the Heiwa no mori region, they face some Cyclops who
+						ambush them with giant boulders. They get to flee just
+						in time but they will have to stay cautious for the
+						remaining days of travel knowing they are being
+						followed.
+					</p>
+					<div style={{ display: "flex" }}>
+						<img
+							src={session8}
 							style={{ marginLeft: "auto", marginRight: "auto" }}
 						/>
 					</div>
