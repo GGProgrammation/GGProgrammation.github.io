@@ -10,6 +10,7 @@ import borgorTulak from "../../../Images/Npcs/Borgor Tulak.png";
 import kariaBaro from "../../../Images/Npcs/Karia Baro.png";
 import luciaAremori from "../../../Images/Npcs/Lucia Aremori.png";
 import valakVadrin from "../../../Images/Npcs/Valak Vadrin.png";
+import questionMark from "../../../Images/Npcs/QuestionMark.png";
 
 import Npc from "../../parts/Npc";
 
@@ -128,6 +129,12 @@ function Npcs() {
 					}
 					img_src={valakVadrin}
 					profession={"Hunter"}
+				/>
+				<Npc
+					name={"Jorlen Renadal"}
+					description={"An mysterious entity"}
+					img_src={questionMark}
+					profession={"?"}
 				/>
 			</div>
 		</div>

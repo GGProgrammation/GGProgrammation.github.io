@@ -4,6 +4,7 @@ import session3 from "../../../Images/Travel/Session3.png";
 import session5 from "../../../Images/Travel/Session5.png";
 import session6 from "../../../Images/Travel/Session6.png";
 import session8 from "../../../Images/Travel/Session8.png";
+import session9 from "../../../Images/Travel/Session9.png";
 
 function Sessions() {
 	return (
@@ -483,7 +484,7 @@ function Sessions() {
 						Kadesh starts having weird visions again of glitching
 						stars and at night, all members of the party have
 						strange dreams. They all seem connected somehow by the
-						mysterious letters "J.S" and other similarities like the
+						mysterious letters "J.R" and other similarities like the
 						clothes they wear and the likes. They tried talking
 						about it to the Flower eaters but at last, they all
 						seemed just as weird talking about these dreams then the
@@ -501,6 +502,51 @@ function Sessions() {
 					<div style={{ display: "flex" }}>
 						<img
 							src={session8}
+							style={{ marginLeft: "auto", marginRight: "auto" }}
+						/>
+					</div>
+				</div>
+				<div style={{ border: "5px black solid" }}>
+					<h4>Session 9</h4>
+					<div
+						style={{
+							display: "flex",
+							justifyContent: "space-between",
+						}}
+					>
+						<h5>Year 180am, 14-07 - 25-07 </h5>
+						<p>2025-01-22</p>
+					</div>
+					<p>
+						The shining Diamonds brought back the Flower Eaters
+						safely. The families of the rescued squad thanked them
+						and organised a feast in their honor. They got rewarded
+						with gratitude and a parting gift from Borgor Tulak, the
+						only hunter lost during their rescue mission. They all
+						got to split the thunder energy from inside borgor's
+						weapon. May it help them save more people in the future.
+					</p>
+					<p>
+						After the festivities, they tried to confront the people
+						of the village with their visions, trying to find the
+						meaning of them. They ended up talking with the village
+						chief, finally, who gave them information but not enough
+						for their taste. He said he would divulge everything in
+						time but that meanwhile, the shining Diamonds had to
+						keep on going. For now, all they had to know is that
+						someone by the name of Jorlen Renadal was keeping them
+						there and that those visions could be explained by him.
+						He then injected them with a serum in the neck to make
+						them lose their memory of the visions temporarely so
+						they could continue to hunt without being distracted.
+					</p>
+					<p>
+						They woke up the next day, the serum having worked on
+						most of them, but not all.
+					</p>
+					<div style={{ display: "flex" }}>
+						<img
+							src={session9}
 							style={{ marginLeft: "auto", marginRight: "auto" }}
 						/>
 					</div>
