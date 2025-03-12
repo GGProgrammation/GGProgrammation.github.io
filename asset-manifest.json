@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.999f37d4.css",
-    "main.js": "/static/js/main.12bf6094.js",
+    "main.js": "/static/js/main.7fed7fca.js",
     "static/js/453.7d0dad08.chunk.js": "/static/js/453.7d0dad08.chunk.js",
     "static/media/World map.jpg": "/static/media/World map.7bb61179f6d43edd4232.jpg",
     "static/media/Monsutāhantā.jpg": "/static/media/Monsutāhantā.63cda94760b6701db599.jpg",
@@ -23,6 +23,7 @@
     "static/media/Session6.png": "/static/media/Session6.de44fdb736e567d13c0a.png",
     "static/media/Sabaku no suna region.jpg": "/static/media/Sabaku no suna region.9b12267f4967cb10f243.jpg",
     "static/media/Hyphan.png": "/static/media/Hyphan.51424b0961bfedfa917c.png",
+    "static/media/Session9.png": "/static/media/Session9.b37a939ce0d7a07378e9.png",
     "static/media/AradrakaSheet.png": "/static/media/AradrakaSheet.1d8cedb64476230af40c.png",
     "static/media/Sora no yamayama region.jpg": "/static/media/Sora no yamayama region.b28e5ca663a7fc0e6e71.jpg",
     "static/media/MH-image.png": "/static/media/MH-image.10f0a02ee6eb426c00ab.png",
@@ -76,11 +77,11 @@
     "static/media/Doku no numachi region.jpg": "/static/media/Doku no numachi region.e39a234c568f847adb83.jpg",
     "index.html": "/index.html",
     "main.999f37d4.css.map": "/static/css/main.999f37d4.css.map",
-    "main.12bf6094.js.map": "/static/js/main.12bf6094.js.map",
+    "main.7fed7fca.js.map": "/static/js/main.7fed7fca.js.map",
     "453.7d0dad08.chunk.js.map": "/static/js/453.7d0dad08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999f37d4.css",
-    "static/js/main.12bf6094.js"
+    "static/js/main.7fed7fca.js"
   ]
 }
