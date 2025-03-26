@@ -131,7 +131,7 @@ function Npcs() {
 					profession={"Hunter"}
 				/>
 				<Npc
-					name={"Jorlen Renadal"}
+					name={"Jorlen Ranadal"}
 					description={"An mysterious entity"}
 					img_src={questionMark}
 					profession={"?"}

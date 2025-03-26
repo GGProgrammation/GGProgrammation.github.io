@@ -2,6 +2,8 @@ import poisonousMillitank from "../../../Images/Monsters/PoisonousMillitank.jpg"
 import poisonousMillitankSheet from "../../../Images/Monsters/PoisonousMillitankSheet.png";
 import aradraka from "../../../Images/Monsters/Aradraka.jpg";
 import aradrakaSheet from "../../../Images/Monsters/AradrakaSheet.png";
+import goricrab from "../../../Images/Monsters/Goricrab.jpg";
+import goricrabSheet from "../../../Images/Monsters/GoricrabSheet.png";
 
 function Monsters() {
 	return (
@@ -41,6 +43,19 @@ function Monsters() {
 						/>
 						<img
 							src={aradrakaSheet}
+							style={{ width: "50%", height: "800px" }}
+						/>
+					</div>
+				</div>
+				<div style={{ border: "5px solid black" }}>
+					<h4>Goricrab</h4>
+					<div style={{ display: "flex" }}>
+						<img
+							src={goricrab}
+							style={{ width: "50%", height: "800px" }}
+						/>
+						<img
+							src={goricrabSheet}
 							style={{ width: "50%", height: "800px" }}
 						/>
 					</div>

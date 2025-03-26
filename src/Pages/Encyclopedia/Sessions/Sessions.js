@@ -5,6 +5,7 @@ import session5 from "../../../Images/Travel/Session5.png";
 import session6 from "../../../Images/Travel/Session6.png";
 import session8 from "../../../Images/Travel/Session8.png";
 import session9 from "../../../Images/Travel/Session9.png";
+import session10 from "../../../Images/Travel/Session10.png";
 
 function Sessions() {
 	return (
@@ -125,7 +126,7 @@ function Sessions() {
 					</p>
 					<p>
 						The morning after, they gathered themselves and made
-						their way to the spot where the misterious form had been
+						their way to the spot where the mysterious form had been
 						seen. They found no trace of a massive creature on the
 						ground, nor in the fauna surrounding the space. All they
 						found were small holes on an elevated circle of dirt in
@@ -293,7 +294,7 @@ function Sessions() {
 						saw during their way back, stars glitching out, the sky
 						turning day during the night but got no answers from the
 						rest of the village. In fact, they seemed to avoid the
-						subjet. With some good insight from members of the team
+						subject. With some good insight from members of the team
 						and a dodgy conversation between the council president
 						and the general store manager spied on by Kadesh, they
 						gathered that something wasn't right. They were being
@@ -324,7 +325,7 @@ function Sessions() {
 						<p>2024-12-04</p>
 					</div>
 					<p>
-						The shining diamonds get ready to rescue the flowers
+						The shining diamonds got ready to rescue the flowers
 						eaters. The team they are going to save is composed of :
 					</p>
 					<ul>
@@ -469,7 +470,7 @@ function Sessions() {
 					</div>
 					<p>
 						The shining Diamonds succeeded in rescuing almost all of
-						the Flower eaters party. They start the journey home
+						the Flower eaters party. They started the journey home
 						transporting both the Aradraka sleeping and the
 						remaining party members Valak Vadrin, Lucia Aremori and
 						Karia Baro. They also bring with them the weapon of all
@@ -479,9 +480,9 @@ function Sessions() {
 					</p>
 					<p>
 						For the first few days of travel back towards the
-						village, everything is ok for the Shining Diamonds.
+						village, everything was ok for the Shining Diamonds.
 						Nothing out of the ordinary. On the third day however,
-						Kadesh starts having weird visions again of glitching
+						Kadesh started having weird visions again of glitching
 						stars and at night, all members of the party have
 						strange dreams. They all seem connected somehow by the
 						mysterious letters "J.R" and other similarities like the
@@ -534,7 +535,7 @@ function Sessions() {
 						for their taste. He said he would divulge everything in
 						time but that meanwhile, the shining Diamonds had to
 						keep on going. For now, all they had to know is that
-						someone by the name of Jorlen Renadal was keeping them
+						someone by the name of Jorlen Ranadal was keeping them
 						there and that those visions could be explained by him.
 						He then injected them with a serum in the neck to make
 						them lose their memory of the visions temporarely so
@@ -547,6 +548,60 @@ function Sessions() {
 					<div style={{ display: "flex" }}>
 						<img
 							src={session9}
+							style={{ marginLeft: "auto", marginRight: "auto" }}
+						/>
+					</div>
+				</div>
+				<div style={{ border: "5px black solid" }}>
+					<h4>Session 10</h4>
+					<div
+						style={{
+							display: "flex",
+							justifyContent: "space-between",
+						}}
+					>
+						<h5>Year 180am, 25-07 </h5>
+						<p>2025-03-12</p>
+					</div>
+					<p>
+						The shining Diamonds relaxed for a day, practiced with
+						the changes to their weapons and companions and then
+						went to bed.
+					</p>
+					<p>
+						During the night, the team was woken up by alarmed
+						knocks on their door. Guards asking for them to report
+						to the village council immediately. They had no time to
+						think and just went as fast as possible. When there, the
+						village elder was waiting for them. He briefed them on
+						the situation. Multiple titans to the east of the
+						village were spotted by scouts. An all hands on deck
+						situation. Only 3 teams of hunters were present, the
+						Shining diamonds. The remains of the Leaf eaters. The
+						Monster killers.
+					</p>
+					<p>
+						The Shining diamonds got dispatched to the closest
+						monster. A giant monkey looking titan. The flower eaters
+						got dispatched to the second closest, a giant bull. The
+						monster killers got dispatch to the farthest, a flying
+						turtle titan. Their mission is simple. Kill the titans
+						before they reach the village. The Shining diamonds
+						would reinforce the flower eaters since they are a
+						member short. They had no time to prepare much of
+						anything and then went right away into the night.
+					</p>
+					<p>
+						Once on site, the Shining diamonds were faced with a
+						titanic gorilla with crab claws. It was a tough fight
+						but they managed to live through it and defeat the
+						beast. As they finished healing themselves, they looked
+						east to see giant plumes of dark smoke comming from deep
+						withing the forest. Their next target.
+					</p>
+					<div style={{ display: "flex" }}>
+						<img
+							src={session10}
 							style={{ marginLeft: "auto", marginRight: "auto" }}
 						/>
 					</div>
