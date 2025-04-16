@@ -4,7 +4,8 @@ import aradraka from "../../../Images/Monsters/Aradraka.jpg";
 import aradrakaSheet from "../../../Images/Monsters/AradrakaSheet.png";
 import goricrab from "../../../Images/Monsters/Goricrab.jpg";
 import goricrabSheet from "../../../Images/Monsters/GoricrabSheet.png";
-
+import bire from "../../../Images/Monsters/Bire.jpg";
+import bireSheet from "../../../Images/Monsters/BireSheet.png";
 function Monsters() {
 	return (
 		<div style={{ display: "flex", flexDirection: "column" }}>
@@ -56,6 +57,19 @@ function Monsters() {
 						/>
 						<img
 							src={goricrabSheet}
+							style={{ width: "50%", height: "800px" }}
+						/>
+					</div>
+				</div>
+				<div style={{ border: "5px solid black" }}>
+					<h4>Bire</h4>
+					<div style={{ display: "flex" }}>
+						<img
+							src={bire}
+							style={{ width: "50%", height: "800px" }}
+						/>
+						<img
+							src={bireSheet}
 							style={{ width: "50%", height: "800px" }}
 						/>
 					</div>

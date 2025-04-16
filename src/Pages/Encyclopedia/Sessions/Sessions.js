@@ -606,6 +606,32 @@ function Sessions() {
 						/>
 					</div>
 				</div>
+				<div style={{ border: "5px black solid" }}>
+					<h4>Session 11</h4>
+					<div
+						style={{
+							display: "flex",
+							justifyContent: "space-between",
+						}}
+					>
+						<h5>Year 180am, 25-07 </h5>
+						<p>2025-03-26</p>
+					</div>
+					<p>
+						The shining diamonds, after fighting the gorilla, went
+						with haste to help the flower eaters. After travelling a
+						few hours, they came face to face with their new
+						opponent. Or in this case, opponents. A fiery bull made
+						of coal was separating into tinier versions of itself
+						making the hunters outnumbered.
+					</p>
+					<p>
+						After fighting the monster with the help of the flower
+						eaters, they decided to go in the direction of the
+						Monster Killers and the third monster to see if they
+						needed help.
+					</p>
+				</div>
 			</div>
 		</div>
 	);
